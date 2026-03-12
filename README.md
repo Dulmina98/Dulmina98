@@ -20,7 +20,7 @@ I'm a Full Stack Engineer based in Sri Lanka with 3+ years of experience buildin
 - 🤖 Also building **AllocAI** — a multi-tenant SaaS revenue sharing platform
 - 📱 Also building a **white-label Alumni Network** mobile app (iOS & Android)
 - 🎓 Final Year Project — **Blockchain Tournament Platform** with Ethereum smart contracts
-- 🌍 Based in Sri Lanka, open to remote opportunities
+- 🌍 Based in Sri Lanka, open to hybrid/remote opportunities
 
 ---
 
