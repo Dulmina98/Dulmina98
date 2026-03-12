@@ -82,6 +82,17 @@ I'm a Full Stack Engineer based in Sri Lanka with 3+ years of experience buildin
 
 ## Featured Projects
 
+### 🐾 Paws & Paths — Pet Walking & Social Platform
+> Playful-premium cross-platform mobile app for dog owners to track walks, discover routes, and connect with their community
+
+- Real-time GPS walk tracking with Mapbox (distance, elevation, speed, duration)
+- Social feed with posts, likes, comments, leaderboards, and Treat Points system
+- Pet Safety Kit with live weather, pavement temperature warnings, and air quality data
+- Custom "Playful-Premium" design system with Reanimated interactions and soft branded shadows
+- **Stack:** React Native (Expo), TypeScript, Supabase, NativeWind, Mapbox, Turborepo
+
+---
+
 ### 🤖 AllocAI — SaaS Revenue Sharing Platform
 > Multi-tenant SaaS platform for automated revenue and profit allocation in project-based teams
 
@@ -99,17 +110,6 @@ I'm a Full Stack Engineer based in Sri Lanka with 3+ years of experience buildin
 - Multi-tier membership lifecycle with admin approval and card generation
 - Custom dual-login system (email or Membership ID) via Clerk + Convex
 - **Stack:** React Native (Expo), TypeScript, Convex, Clerk, Resend
-
----
-
-### 🐾 Paws & Paths — Pet Walking & Social Platform
-> Playful-premium cross-platform mobile app for dog owners to track walks, discover routes, and connect with their community
-
-- Real-time GPS walk tracking with Mapbox (distance, elevation, speed, duration)
-- Social feed with posts, likes, comments, leaderboards, and Treat Points system
-- Pet Safety Kit with live weather, pavement temperature warnings, and air quality data
-- Custom "Playful-Premium" design system with Reanimated interactions and soft branded shadows
-- **Stack:** React Native (Expo), TypeScript, Supabase, NativeWind, Mapbox, Turborepo
 
 ---
 
