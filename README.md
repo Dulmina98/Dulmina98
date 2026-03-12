@@ -14,9 +14,10 @@
 
 ## About Me
 
-I'm a Full Stack Engineer based in Sri Lanka with 3+ years of experience building and shipping production applications across web, mobile, and real-time systems. I've worked across the full product lifecycle from architecture and backend design to deployment and team leadership at Metarune Labs, delivering complex platforms for international clients.
+I'm a Full Stack Engineer based in Sri Lanka with 3+ years of experience building and shipping production applications across web, mobile, and real-time systems. I've worked across the full product lifecycle — from architecture and backend design to deployment and team leadership — at Metarune Labs, delivering complex platforms for international clients.
 
-- 🏗️ Currently building **AllocAI** — a multi-tenant SaaS revenue sharing platform
+- 🐾 Currently building **Paws & Paths** — a pet walking and social networking app for dog owners
+- 🤖 Also building **AllocAI** — a multi-tenant SaaS revenue sharing platform
 - 📱 Also building a **white-label Alumni Network** mobile app (iOS & Android)
 - 🎓 Final Year Project — **Blockchain Tournament Platform** with Ethereum smart contracts
 - 🌍 Based in Sri Lanka, open to remote opportunities
@@ -81,17 +82,6 @@ I'm a Full Stack Engineer based in Sri Lanka with 3+ years of experience buildin
 
 ## Featured Projects
 
-### 🐾 Paws & Paths — Pet Walking & Social Platform
-> Playful-premium cross-platform mobile app for dog owners to track walks, discover routes, and connect with their community
-
-- Real-time GPS walk tracking with Mapbox (distance, elevation, speed, duration)
-- Social feed with posts, likes, comments, leaderboards, and Treat Points system
-- Pet Safety Kit with live weather, pavement temperature warnings, and air quality data
-- Custom "Playful-Premium" design system with Reanimated interactions and soft branded shadows
-- **Stack:** React Native (Expo), TypeScript, Supabase, NativeWind, Mapbox, Turborepo
-
----
-
 ### 🤖 AllocAI — SaaS Revenue Sharing Platform
 > Multi-tenant SaaS platform for automated revenue and profit allocation in project-based teams
 
@@ -109,6 +99,17 @@ I'm a Full Stack Engineer based in Sri Lanka with 3+ years of experience buildin
 - Multi-tier membership lifecycle with admin approval and card generation
 - Custom dual-login system (email or Membership ID) via Clerk + Convex
 - **Stack:** React Native (Expo), TypeScript, Convex, Clerk, Resend
+
+---
+
+### 🐾 Paws & Paths — Pet Walking & Social Platform
+> Playful-premium cross-platform mobile app for dog owners to track walks, discover routes, and connect with their community
+
+- Real-time GPS walk tracking with Mapbox (distance, elevation, speed, duration)
+- Social feed with posts, likes, comments, leaderboards, and Treat Points system
+- Pet Safety Kit with live weather, pavement temperature warnings, and air quality data
+- Custom "Playful-Premium" design system with Reanimated interactions and soft branded shadows
+- **Stack:** React Native (Expo), TypeScript, Supabase, NativeWind, Mapbox, Turborepo
 
 ---
 
